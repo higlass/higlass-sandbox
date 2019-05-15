@@ -1,0 +1,22 @@
+{
+  "name": "higlass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "higlass": "1.5.7",
+    "pixi.js": "5.0.2",
+    "react": "16.8.6",
+    "react-bootstrap": "1.0.0-beta.8",
+    "react-dom": "16.8.6"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}
